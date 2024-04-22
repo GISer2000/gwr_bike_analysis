@@ -11,3 +11,13 @@
 - 分别选择3点和18点的共享单车出行数据作为因变量
   <center><img src="fig/时间分布.png" width="100%"><center> 
 - 使用地理加权回归模型进行分析
+
+# 结果
+
+3点的结果：
+<center><img src="fig/h3绘图.png" width="100%"><center> 
+  
+18点的结果：
+<center><img src="fig/h18绘图.png" width="100%"><center> 
+
+- 很明显，这些变量在空间上不同的
